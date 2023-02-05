@@ -1,0 +1,15 @@
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.AssemblyInfo.cs
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\bin\Debug\net6.0\StringSpliter.exe
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\bin\Debug\net6.0\StringSpliter.deps.json
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\bin\Debug\net6.0\StringSpliter.runtimeconfig.json
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\bin\Debug\net6.0\StringSpliter.dll
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\bin\Debug\net6.0\StringSpliter.pdb
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.dll
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\refint\StringSpliter.dll
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.pdb
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\StringSpliter.genruntimeconfig.cache
+C:\Users\MrSmoyk\source\repos\StringSpliter\StringSpliter\obj\Debug\net6.0\ref\StringSpliter.dll
